@@ -924,13 +924,12 @@ body > footer .copyrights {
   padding-top: 20px;
 }
 
-.start-page-content .page-content div {
-  display: inline-block;
-  height: 100%;
-}
-
 .start-page-content .about-me .block-title h3 {
   margin-bottom: 10px;
+}
+
+.about-me {
+  text-align: justify;
 }
 
 .start-page-content .page-content .download-resume {
@@ -945,7 +944,7 @@ body > footer .copyrights {
 }
 
 .info-list li {
-  margin: 6px 0;
+  margin-bottom: 12px;
   text-align: left;
 }
 
